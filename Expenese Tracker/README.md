@@ -1,4 +1,4 @@
-# 💰 Expense Tracker (Python)
+# Expense Tracker (Python)
 
 A simple command-line expense tracker built in Python. It lets users set a budget, log expenses by category, and get real-time feedback on their spending versus their budget.
 
